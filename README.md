@@ -1,4 +1,4 @@
-# Hiver SDE Intern Assignment — AI Customer Support Agent (@Delta)
+# AI Customer Support Agent (@Delta)
 
 End-to-end AI customer-support agent for **Delta Air Lines** (`@Delta`),
 built on the Kaggle *Customer Support on Twitter* dataset
